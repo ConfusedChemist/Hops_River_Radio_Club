@@ -1,0 +1,5 @@
+PWD c:/Users/clmcc/OneDrive - University of Connecticut/Hops_River_Radio_Club/20250312_meeting_minutes
+INPUT c:/texlive/2024/texmf.cnf
+INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/clmcc/OneDrive - University of Connecticut/Hops_River_Radio_Club/20250312_meeting_minutes/20250312_meeting_minutes.tex
