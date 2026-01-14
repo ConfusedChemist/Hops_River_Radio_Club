@@ -1,0 +1,88 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin = 1in]{geometry}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{booktabs}
+\usepackage{tabularray}
+\usepackage[labelfont=bf, skip=5pt, font=small]{caption}
+\usepackage{subcaption}
+\usepackage{graphicx, float}
+\graphicspath{{images/}}
+\usepackage{fancyhdr}
+\usepackage[style=chem-acs, articletitle=true]{biblatex}
+% \addbibresource{references.bib}
+
+
+
+
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+
+\begin{document}
+
+\begin{center}
+	\huge{Hops River Radio Club}\\[10pt]
+	\large{May 2025 Meeting Minutes}
+\end{center}
+\rule{\textwidth}{0.5pt}
+	\noindent Members in Attendance: Christian, KD0POO; Steve, NK1V; Mary, WX1W; Dave, AC1K; Karl, N1KJK; Lisa, KB1RVU 
+    
+\rule{\textwidth}{0.5pt}
+
+Called to Order: \textbf{18:15}
+\section{Old Business}
+\begin{enumerate}
+    \item Member Update
+        \begin{itemize}
+            \item Don Wilson wanted to attend tonight, but can't drive. Living back in the community he was previously in, but on the first floor now.
+        \end{itemize}
+    \item Treasury
+        \begin{itemize}
+            \item No change. $\mathdollar 558$
+        \end{itemize}
+    \item Nets
+        \begin{itemize}
+            \item 2 meter net - 6 or 7 people last week. One new person
+            \item 75 meter net - Johnny said he's suspending for a while due to unlicensed participants
+        \end{itemize}
+    \item Field Day
+        \begin{itemize}
+            \item Last full weekend of June ($28th-29th$)
+            \item Dave suggested just using the Andover pickleball courts without explicit permission.
+            \item Bob to check with Columbia pavilions
+            \item Bring sandwich platters, chips, and other snack type foods
+        \end{itemize}
+\end{enumerate}
+
+\section{New Business}
+\begin{enumerate}
+    \item Member Update
+        \begin{itemize}
+            \item Don will probably not make it to field day.
+        \end{itemize}
+    \item Treasury
+        \begin{itemize}
+            \item $\mathdollar 558$ in the Treasury
+            \item Insurance due at the end of summer $\sim \mathdollar200$
+            \item 13 Active members, 30 on the membership list.
+        \end{itemize}
+    \item Nets
+        \begin{itemize}
+            \item 2m net is going well and people are having a lot of fun. Averaging 5-9 members. Lisa is stepping down from net control in mid-July. If anyone is interested, they should contact Lisa.
+            \item 
+        \end{itemize}
+    \item Field Day
+        \begin{itemize}
+            \item Mary has paper goods for field day, but people need to bring food.
+            \item Mary and Dave grabbed a couple of ARRL fliers for the event to fill in local event details.
+            \item Someone has a club sign to put in the lawn for advertisement (Mary?)
+            \item Happening at the Andover Senior Center, 17 School Rd. Andover, CT.
+            \item Someone should order a sandwich platter from Walmart/BJ's
+            \item What about snacks?
+            \item Logging? ARRL might have paper logs someone could print off
+            \item Mary is bringing a generator, but we might not use for our contest designation.
+        \end{itemize}
+\end{enumerate}
+
+Meeting End: \textbf{19:00}
+\end{document}
