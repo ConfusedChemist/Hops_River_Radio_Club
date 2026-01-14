@@ -1,0 +1,729 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.1)  14 JAN 2026 09:34
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/christian/Documents/Hops_River_Radio_Club/20260114_Meeting_Minutes/20260114_Meeting_Minutes.tex
+(/home/christian/Documents/Hops_River_Radio_Club/20260114_Meeting_Minutes/20260114_Meeting_Minutes.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(/home/christian/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/home/christian/.miktex/texmfs/install/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (/home/christian/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/home/christian/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/home/christian/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (/home/christian/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/home/christian/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks20
+ (/home/christian/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg)) (/home/christian/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/home/christian/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (/home/christian/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen157
+)) (/home/christian/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen158
+) (/home/christian/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count286
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count287
+\leftroot@=\count288
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count289
+\DOTSCASE@=\count290
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen159
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count291
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count292
+\dotsspace@=\muskip17
+\c@parentequation=\count293
+\dspbrk@lvl=\count294
+\tag@help=\toks22
+\row@=\count295
+\column@=\count296
+\maxfields@=\count297
+\andhelp@=\toks23
+\eqnshift@=\dimen160
+\alignsep@=\dimen161
+\tagshift@=\dimen162
+\tagwidth@=\dimen163
+\totwidth@=\dimen164
+\lineht@=\dimen165
+\@envbody=\toks24
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+) (/home/christian/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/home/christian/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/home/christian/.miktex/texmfs/install/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks31
+) (/home/christian/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen166
+\lightrulewidth=\dimen167
+\cmidrulewidth=\dimen168
+\belowrulesep=\dimen169
+\belowbottomsep=\dimen170
+\aboverulesep=\dimen171
+\abovetopsep=\dimen172
+\cmidrulesep=\dimen173
+\cmidrulekern=\dimen174
+\defaultaddspace=\dimen175
+\@cmidla=\count298
+\@cmidlb=\count299
+\@aboverulesep=\dimen176
+\@belowrulesep=\dimen177
+\@thisruleclass=\count300
+\@lastruleclass=\count301
+\@thisrulewidth=\dimen178
+) (/home/christian/.miktex/texmfs/install/tex/latex/tabularray/tabularray.sty
+Package: tabularray 2025-08-29 v2025B Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count302
+\l__tblr_c_int=\count303
+\l__tblr_r_int=\count304
+\l__tblr_d_dim=\dimen179
+\l__tblr_h_dim=\dimen180
+\l__tblr_o_dim=\dimen181
+\l__tblr_p_dim=\dimen182
+\l__tblr_q_dim=\dimen183
+\l__tblr_r_dim=\dimen184
+\l__tblr_s_dim=\dimen185
+\l__tblr_t_dim=\dimen186
+\l__tblr_v_dim=\dimen187
+\l__tblr_w_dim=\dimen188
+\l__tblr_a_box=\box55
+\l__tblr_b_box=\box56
+\l__tblr_c_box=\box57
+\l__tblr_d_box=\box58
+\c@tblrcount=\count305
+\c@rownum=\count306
+\c@colnum=\count307
+\c@rowcount=\count308
+\c@colcount=\count309
+\abovesep=\dimen189
+\belowsep=\dimen190
+\leftsep=\dimen191
+\rightsep=\dimen192
+\gTblrLevelInt=\count310
+\g__tblr_data_row_key_count_int=\count311
+\g__tblr_data_column_key_count_int=\count312
+\g__tblr_data_cell_key_count_int=\count313
+\g__tblr_array_int=\count314
+\l__tblr_key_count_int=\count315
+\l__tblr_key_quotient_int=\count316
+\l__tblr_key_quotient_two_int=\count317
+\l__tblr_key_remainder_int=\count318
+\g__tblr_data_str_value_count_int=\count319
+\lTblrChildTotalInt=\count320
+\lTblrChildHtotalInt=\count321
+\lTblrChildVtotalInt=\count322
+\l__child_diff_h_int=\count323
+\l__child_diff_v_int=\count324
+\l__child_sign_h_int=\count325
+\l__child_sign_v_int=\count326
+\l__child_step_int=\count327
+\lTblrDefaultHruleWidthDim=\dimen193
+\lTblrDefaultVruleWidthDim=\dimen194
+\l__tblr_split_balance_int=\count328
+\l__tblr_strut_dp_dim=\dimen195
+\l__tblr_strut_ht_dim=\dimen196
+\g__tblr_cell_wd_dim=\dimen197
+\g__tblr_cell_ht_dim=\dimen198
+\g__tblr_cell_head_dim=\dimen199
+\g__tblr_cell_foot_dim=\dimen256
+\l__tblr_measured_cell_box=\box59
+\g__tblr_last_box=\box60
+\l__tblr_temp_box=\box61
+\l__tblr_column_target_dim=\dimen257
+\l__tblr_hfuzz_dim=\dimen258
+\l__tblr_caption_box=\box62
+\l__tblr_caption_left_box=\box63
+\lTblrRowHeadInt=\count329
+\lTblrRowFootInt=\count330
+\l__tblr_row_head_box=\box64
+\l__tblr_row_foot_box=\box65
+\l__tblr_row_head_foot_dim=\dimen259
+\lTblrTableWidthDim=\dimen260
+\l__tblr_table_firsthead_box=\box66
+\l__tblr_table_middlehead_box=\box67
+\l__tblr_table_lasthead_box=\box68
+\l__tblr_table_firstfoot_box=\box69
+\l__tblr_table_middlefoot_box=\box70
+\l__tblr_table_lastfoot_box=\box71
+\l__tblr_remain_height_dim=\dimen261
+\l__tblr_long_from_int=\count331
+\l__tblr_long_to_int=\count332
+\l__tblr_curr_i_int=\count333
+\l__tblr_prev_i_int=\count334
+\lTblrTablePageInt=\count335
+\l__tblr_table_head_box=\box72
+\l__tblr_table_foot_box=\box73
+\l__tblr_table_head_foot_dim=\dimen262
+\l__tblr_table_head_body_foot_dim=\dimen263
+\l__tblr_table_box=\box74
+\lTblrRowFirstInt=\count336
+\lTblrRowLastInt=\count337
+\l__tblr_table_hlines_box=\box75
+\l__tblr_hline_box=\box76
+\l__tblr_row_box=\box77
+\l__tblr_col_o_wd_dim=\dimen264
+\l__tblr_col_b_wd_dim=\dimen265
+\l__tblr_hline_leftskip_dim=\dimen266
+\l__tblr_hline_rightskip_dim=\dimen267
+\l__tblr_row_ht_dim=\dimen268
+\l__tblr_row_dp_dim=\dimen269
+\l__tblr_row_abovesep_dim=\dimen270
+\l__tblr_row_belowsep_dim=\dimen271
+\l__tblr_row_vlines_box=\box78
+\l__tblr_vline_box=\box79
+\l__tblr_cell_box=\box80
+\l__tblr_row_upper_dim=\dimen272
+\l__tblr_row_lower_dim=\dimen273
+\l__tblr_row_vpace_dim=\dimen274
+\l__tblr_vline_aboveskip_dim=\dimen275
+\l__tblr_vline_belowskip_dim=\dimen276
+\lTblrCellRowSpanInt=\count338
+\lTblrCellColSpanInt=\count339
+\l__tblr_cell_wd_dim=\dimen277
+\l__tblr_cell_ht_dim=\dimen278
+\lTblrCellAboveBorderWidthDim=\dimen279
+\lTblrCellBelowBorderWidthDim=\dimen280
+\lTblrCellLeftBorderWidthDim=\dimen281
+\lTblrCellRightBorderWidthDim=\dimen282
+\l__tblr_diag_box=\box81
+\l__tblr_cell_inner_wd_dim=\dimen283
+\l__tblr_cell_inner_dp_dim=\dimen284
+\l__tblr_cell_hanchor_dim=\dimen285
+\l__tblr_last_cell_table_ht_dim=\dimen286
+\l__tblr_last_cell_table_dp_dim=\dimen287
+\l__tblr_last_vline_wd_dim=\dimen288
+\l__tblr_tikz_node_box=\box82
+) (/home/christian/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/home/christian/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen289
+\captionmargin=\dimen290
+\caption@leftmargin=\dimen291
+\caption@rightmargin=\dimen292
+\caption@width=\dimen293
+\caption@indent=\dimen294
+\caption@parindent=\dimen295
+\caption@hangindent=\dimen296
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count340
+\c@continuedfloat=\count341
+) (/home/christian/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count342
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count343
+) (/home/christian/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (/home/christian/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/home/christian/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/home/christian/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/home/christian/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen297
+\Gin@req@width=\dimen298
+) (/home/christian/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count344
+\float@exts=\toks32
+\float@box=\box83
+\@float@everytoks=\toks33
+\@floatcapt=\box84
+) (/home/christian/.miktex/texmfs/install/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip57
+\f@nch@offset@elh=\skip58
+\f@nch@offset@erh=\skip59
+\f@nch@offset@olh=\skip60
+\f@nch@offset@orh=\skip61
+\f@nch@offset@elf=\skip62
+\f@nch@offset@erf=\skip63
+\f@nch@offset@olf=\skip64
+\f@nch@offset@orf=\skip65
+\f@nch@height=\skip66
+\f@nch@footalignment=\skip67
+\f@nch@widthL=\skip68
+\f@nch@widthC=\skip69
+\f@nch@widthR=\skip70
+\@temptokenb=\toks34
+) (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+ (/home/christian/.miktex/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/home/christian/.miktex/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/home/christian/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/home/christian/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count345
+) (/home/christian/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (/home/christian/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (/home/christian/.miktex/texmfs/install/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count346
+ (/home/christian/.miktex/texmfs/install/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/home/christian/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (/home/christian/.miktex/texmfs/install/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count347
+\c@listtotal=\count348
+\c@listcount=\count349
+\c@liststart=\count350
+\c@liststop=\count351
+\c@citecount=\count352
+\c@citetotal=\count353
+\c@multicitecount=\count354
+\c@multicitetotal=\count355
+\c@instcount=\count356
+\c@maxnames=\count357
+\c@minnames=\count358
+\c@maxitems=\count359
+\c@minitems=\count360
+\c@citecounter=\count361
+\c@maxcitecounter=\count362
+\c@savedcitecounter=\count363
+\c@uniquelist=\count364
+\c@uniquename=\count365
+\c@refsection=\count366
+\c@refsegment=\count367
+\c@maxextratitle=\count368
+\c@maxextratitleyear=\count369
+\c@maxextraname=\count370
+\c@maxextradate=\count371
+\c@maxextraalpha=\count372
+\c@abbrvpenalty=\count373
+\c@highnamepenalty=\count374
+\c@lownamepenalty=\count375
+\c@maxparens=\count376
+\c@parenlevel=\count377
+\blx@tempcnta=\count378
+\blx@tempcntb=\count379
+\blx@tempcntc=\count380
+\c@blx@maxsection=\count381
+\blx@maxsegment@0=\count382
+\blx@notetype=\count383
+\blx@parenlevel@text=\count384
+\blx@parenlevel@foot=\count385
+\blx@sectionciteorder@0=\count386
+\blx@sectionciteorderinternal@0=\count387
+\blx@entrysetcounter=\count388
+\blx@biblioinstance=\count389
+\labelnumberwidth=\skip71
+\labelalphawidth=\skip72
+\biblabelsep=\skip73
+\bibitemsep=\skip74
+\bibnamesep=\skip75
+\bibinitsep=\skip76
+\bibparsep=\skip77
+\bibhang=\skip78
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language1
+\c@mincomprange=\count390
+\c@maxcomprange=\count391
+\c@mincompwidth=\count392
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'chem-acs.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count393
+\c@savedafterword=\count394
+\c@annotator=\count395
+\c@savedannotator=\count396
+\c@author=\count397
+\c@savedauthor=\count398
+\c@bookauthor=\count399
+\c@savedbookauthor=\count400
+\c@commentator=\count401
+\c@savedcommentator=\count402
+\c@editor=\count403
+\c@savededitor=\count404
+\c@editora=\count405
+\c@savededitora=\count406
+\c@editorb=\count407
+\c@savededitorb=\count408
+\c@editorc=\count409
+\c@savededitorc=\count410
+\c@foreword=\count411
+\c@savedforeword=\count412
+\c@holder=\count413
+\c@savedholder=\count414
+\c@introduction=\count415
+\c@savedintroduction=\count416
+\c@namea=\count417
+\c@savednamea=\count418
+\c@nameb=\count419
+\c@savednameb=\count420
+\c@namec=\count421
+\c@savednamec=\count422
+\c@translator=\count423
+\c@savedtranslator=\count424
+\c@shortauthor=\count425
+\c@savedshortauthor=\count426
+\c@shorteditor=\count427
+\c@savedshorteditor=\count428
+\c@labelname=\count429
+\c@savedlabelname=\count430
+\c@institution=\count431
+\c@savedinstitution=\count432
+\c@lista=\count433
+\c@savedlista=\count434
+\c@listb=\count435
+\c@savedlistb=\count436
+\c@listc=\count437
+\c@savedlistc=\count438
+\c@listd=\count439
+\c@savedlistd=\count440
+\c@liste=\count441
+\c@savedliste=\count442
+\c@listf=\count443
+\c@savedlistf=\count444
+\c@location=\count445
+\c@savedlocation=\count446
+\c@organization=\count447
+\c@savedorganization=\count448
+\c@origlocation=\count449
+\c@savedoriglocation=\count450
+\c@origpublisher=\count451
+\c@savedorigpublisher=\count452
+\c@publisher=\count453
+\c@savedpublisher=\count454
+\c@language=\count455
+\c@savedlanguage=\count456
+\c@origlanguage=\count457
+\c@savedoriglanguage=\count458
+\c@pageref=\count459
+\c@savedpageref=\count460
+\shorthandwidth=\skip79
+\shortjournalwidth=\skip80
+\shortserieswidth=\skip81
+\shorttitlewidth=\skip82
+\shortauthorwidth=\skip83
+\shorteditorwidth=\skip84
+\locallabelnumberwidth=\skip85
+\locallabelalphawidth=\skip86
+\localshorthandwidth=\skip87
+\localshortjournalwidth=\skip88
+\localshortserieswidth=\skip89
+\localshorttitlewidth=\skip90
+\localshortauthorwidth=\skip91
+\localshorteditorwidth=\skip92
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count461
+\c@textcitetotal=\count462
+\c@textcitemaxnames=\count463
+\c@biburlbigbreakpenalty=\count464
+\c@biburlbreakpenalty=\count465
+\c@biburlnumpenalty=\count466
+\c@biburlucpenalty=\count467
+\c@biburllcpenalty=\count468
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count469
+)
+Package biblatex Info: Trying to load bibliography style 'chem-acs'...
+Package biblatex Info: ... file 'chem-acs.bbx' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex-chem/chem-acs.bbx
+File: chem-acs.bbx 2025-09-05 v1.2a biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count470
+\c@bbx:relatedtotal=\count471
+))))
+Package biblatex Info: Trying to load citation style 'chem-acs'...
+Package biblatex Info: ... file 'chem-acs.cbx' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex-chem/chem-acs.cbx
+File: chem-acs.cbx 2025-09-05 v1.2a biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count472
+\c@cbx@tempcntb=\count473
+\c@cbx@tempcntc=\count474
+\c@cbx@tempcntd=\count475
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+ (/home/christian/.miktex/texmfs/install/tex/latex/l3kernel-dev/expl3.sty
+Package: expl3 2025-09-02 L3 programming layer (loader) 
+ (/home/christian/.miktex/texmfs/install/tex/latex/l3backend-dev/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count476
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2025-09-02 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/blx-case-expl3.sty (/home/christian/.miktex/texmfs/install/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+))
+\@quotelevel=\count477
+\@quotereset=\count478
+ (20260114_Meeting_Minutes.aux)
+\openout1 = `20260114_Meeting_Minutes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/home/christian/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count479
+\scratchdimen=\dimen299
+\scratchbox=\box85
+\nofMPsegments=\count480
+\nofMParguments=\count481
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count482
+\MPscratchDim=\dimen300
+\MPnumerator=\count483
+\makeMPintoPDFobject=\count484
+\everyMPtoPDFconversion=\toks36
+) (/home/christian/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/home/christian/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/home/christian/.miktex/texmfs/install/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `20260114_Meeting_Minutes.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file '20260114_Meeting_Minutes.bbl' found.
+ (20260114_Meeting_Minutes.bbl)
+Package biblatex Info: Reference section=0 on input line 21.
+Package biblatex Info: Reference segment=0 on input line 21.
+
+Overfull \hbox (2.65114pt too wide) in paragraph at lines 55--56
+[]\OT1/cmr/m/n/12 Karl asked about multi-band dipole options and layout suggestions for his property.
+ []
+
+
+
+[1
+
+{/home/christian/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/christian/.miktex/texmfs/install/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+
+[2] (20260114_Meeting_Minutes.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+ ***********
+Package logreq Info: Writing requests to '20260114_Meeting_Minutes.run.xml'.
+\openout1 = `20260114_Meeting_Minutes.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15126 strings out of 470067
+ 297329 string characters out of 5482313
+ 1117772 words of memory out of 5000000
+ 43387 multiletter control sequences out of 15000+600000
+ 628970 words of font info for 47 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 63i,5n,66p,786b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/christian/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/christian/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/christian/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/christian/.miktex/texmfs/install/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on 20260114_Meeting_Minutes.pdf (2 pages, 55843 bytes).
+PDF statistics:
+ 30 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
