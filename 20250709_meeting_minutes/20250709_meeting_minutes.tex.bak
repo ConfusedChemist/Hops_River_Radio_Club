@@ -1,0 +1,97 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin = 1in]{geometry}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{booktabs}
+\usepackage{tabularray}
+\usepackage[labelfont=bf, skip=5pt, font=small]{caption}
+\usepackage{subcaption}
+\usepackage{graphicx, float}
+\graphicspath{{images/}}
+\usepackage{fancyhdr}
+\usepackage[style=chem-acs, articletitle=true]{biblatex}
+% \addbibresource{references.bib}
+
+
+
+
+\setlength{\parskip}{1em}
+\setlength{\parindent}{0em}
+
+\begin{document}
+
+\begin{center}
+	\huge{Hops River Radio Club}\\[10pt]
+	\large{May 2025 Meeting Minutes}
+\end{center}
+\rule{\textwidth}{0.5pt}
+	\noindent Members in Attendance: Christian, KD0POO; Mary, WX1W; Lisa, KB1RVU; George, K1YBO; Alex, N1SIX;
+
+\rule{\textwidth}{0.5pt}
+
+Called to Order: \textbf{18:30}
+\section{Old Business}
+\begin{enumerate}
+    \item Member Update
+        \begin{itemize}
+            \item Don will probably not make it to field day.
+        \end{itemize}
+    \item Treasury
+        \begin{itemize}
+            \item $\mathdollar 558$ in the Treasury
+            \item Insurance due at the end of summer $\sim \mathdollar200$
+            \item 13 Active members, 30 on the membership list.
+        \end{itemize}
+    \item Nets
+        \begin{itemize}
+            \item 2m net is going well and people are having a lot of fun. Averaging 5-9 members. Lisa is stepping down from net control in mid-July. If anyone is interested, they should contact Lisa.
+            \item 
+        \end{itemize}
+    \item Field Day
+        \begin{itemize}
+            \item Mary has paper goods for field day, but people need to bring food.
+            \item Mary and Dave grabbed a couple of ARRL fliers for the event to fill in local event details.
+            \item Someone has a club sign to put in the lawn for advertisement (Mary?)
+            \item Happening at the Andover Senior Center, 17 School Rd. Andover, CT.
+            \item Someone should order a sandwich platter from Walmart/BJ's
+            \item What about snacks?
+            \item Logging? ARRL might have paper logs someone could print off
+            \item Mary is bringing a generator, but we might not use for our contest designation.
+        \end{itemize}
+\end{enumerate}
+
+\section{New Business}
+\begin{enumerate}
+    \item Member Update
+        \begin{itemize}
+            \item George Freeman having issue with water in his antenna. The club should reach out to help him
+            \item Has anyone followed up with Carrol Bowen, KB1EMJ, to see if she received the tech manual sent by Joe, N1EAI.
+        \end{itemize}
+    \item Treasury
+        \begin{itemize}
+            \item No change, but reimbursements from field day to come
+        \end{itemize}
+    \item Nets
+        \begin{itemize}
+            \item 2m net is going well and people are having a lot of fun. Averaging 5-9 members. Lisa is stepping down from net control in mid-July. If anyone is interested, they should contact Lisa.
+        \end{itemize}
+    \item Field Day
+        \begin{itemize}
+            \item Dave AC1K, Mary WX1W, Alex N1SIX, Steve NK1V, Christian KD0POO, Don K1IN were in attendance with several guests visiting throughout the day. Weather was beautiful for operation. 4 stations set up for operation - 2 phone, 1 cw, and 1 digital.
+            \item Dave handling log submission.
+            \item Pictures sent around by Alex
+            \item Maybe look into overnight next year
+        \end{itemize}
+    \item Events
+        \begin{itemize}
+            \item Coordinate with other people in the club for future events and maybe use the club call.
+        \end{itemize}
+    \item Anniversary
+        \begin{itemize}
+            \item Update the club logo for the 10 year anniversary? Possibly something that identifies with Andover
+            \item New apparel with a new logo?
+        \end{itemize}
+\end{enumerate}
+
+Meeting End: \textbf{19:22}
+\end{document}
